@@ -1,11 +1,16 @@
 ### Hi there 👋
 
+I'm thrilled to have you here, exploring the world of code and curiosity. My name is Pascal, and I am a passionate tech leader and working as HoD at <a href="https://syndikat7.de">SYNDIKAT7</a>. With an insatiable thirst for knowledge and an unwavering commitment to innovation, I strive to make a positive impact on the world through the power of technology or at least I am doing my best.
+
+🔭 I’m currently working on several projects (most of the time in the field of distributed systems)
+💬 Ask me about anything technology related
+
 <!--
 **PascalGiessler/pascalgiessler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
