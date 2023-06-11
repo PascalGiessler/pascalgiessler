@@ -19,7 +19,7 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://medium.com/feed/@username" 5}}
+{{range rss "https://medium.com/feed/@pmgiessler" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
