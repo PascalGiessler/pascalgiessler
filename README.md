@@ -5,12 +5,12 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 #### 👷 Check out what I'm currently working on
 
 - [PascalGiessler/langchain-falcon-llm-chainlit](https://github.com/PascalGiessler/langchain-falcon-llm-chainlit) - Chatbot build on Falcon LLM (1 day ago)
-- [PascalGiessler/pascalgiessler](https://github.com/PascalGiessler/pascalgiessler) -  (2 days ago)
+- [PascalGiessler/pascalgiessler](https://github.com/PascalGiessler/pascalgiessler) - GitHub Profile Page (2 days ago)
 
 #### 🌱 My latest projects
 
 - [PascalGiessler/langchain-falcon-llm-chainlit](https://github.com/PascalGiessler/langchain-falcon-llm-chainlit) - Chatbot build on Falcon LLM
-- [PascalGiessler/pascalgiessler](https://github.com/PascalGiessler/pascalgiessler) - 
+- [PascalGiessler/pascalgiessler](https://github.com/PascalGiessler/pascalgiessler) - GitHub Profile Page
 
 
 #### 🔨 My recent Pull Requests
