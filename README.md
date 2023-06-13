@@ -27,9 +27,13 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 #### 📓 Gists I wrote
 
+- [Get latest x tags from a git repository](https://gist.github.com/09af282b7e3839a9ad7fcc8a629ce03e) (today)
 
 #### ⭐ Recent Stars
 
+- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Python LLM apps in minutes ⚡️ (today)
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (today)
+- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡ (today)
 
 #### 👯 Check out some of my recent followers
 
