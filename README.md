@@ -4,8 +4,8 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 #### 👷 Check out what I'm currently working on
 
-- [PascalGiessler/langchain-falcon-llm-chainlit](https://github.com/PascalGiessler/langchain-falcon-llm-chainlit) - Chatbot build on Falcon LLM (1 day ago)
-- [PascalGiessler/pascalgiessler](https://github.com/PascalGiessler/pascalgiessler) - GitHub Profile Page (2 days ago)
+- [PascalGiessler/langchain-falcon-llm-chainlit](https://github.com/PascalGiessler/langchain-falcon-llm-chainlit) - Chatbot build on Falcon LLM (2 days ago)
+- [PascalGiessler/pascalgiessler](https://github.com/PascalGiessler/pascalgiessler) - GitHub Profile Page (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -19,7 +19,7 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 #### 📜 My recent blog posts
 
-- [Mastering the Multifaceted Role of a Technical Lead: Balancing Technology, Business, and Leadership…](https://medium.com/@pmgiessler/mastering-the-multifaceted-role-of-a-technical-lead-balancing-technology-business-and-leadership-7b8e7dd7de67?source=rss-97723e613dbd------2) (today)
+- [Mastering the Multifaceted Role of a Technical Lead: Balancing Technology, Business, and Leadership…](https://medium.com/@pmgiessler/mastering-the-multifaceted-role-of-a-technical-lead-balancing-technology-business-and-leadership-7b8e7dd7de67?source=rss-97723e613dbd------2) (1 day ago)
 - [The Myth Behind Developer Productivity: Metrics, Frameworks, and the Human Element](https://medium.com/@pmgiessler/the-myth-behind-developer-productivity-metrics-frameworks-and-the-human-element-185f18c4077d?source=rss-97723e613dbd------2) (1 week ago)
 - [The Power of Data Structures: Unleashing Efficiency in Modern Databases](https://medium.com/@pmgiessler/the-power-of-data-structures-unleashing-efficiency-in-modern-databases-15403fa0a2c8?source=rss-97723e613dbd------2) (2 weeks ago)
 - [Mastering Prompt Engineering: Unleashing the Full Potential of AI Language Models](https://medium.com/@pmgiessler/mastering-prompt-engineering-unleashing-the-full-potential-of-ai-language-models-39f46737bf22?source=rss-97723e613dbd------2) (3 weeks ago)
