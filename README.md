@@ -2,10 +2,14 @@
 
 I'm thrilled to have you here, exploring the world of code and curiosity. My name is Pascal, and I am a passionate tech leader and working as HoD at <a href="https://syndikat7.de">SYNDIKAT7</a>. With an insatiable thirst for knowledge and an unwavering commitment to innovation, I strive to make a positive impact on the world through the power of technology or at least I am doing my best.
 
+#### 🚀 Current Focus topics
+* Artificial Intelligence (Generative-AI, NLP, Deep Learning, ...)
+* Scalable and Resilient Systems (Cloud-Native, Microswervices, DDD,...)
+
 #### 👷 Check out what I'm currently working on
 
+- [PascalGiessler/pascalgiessler](https://github.com/PascalGiessler/pascalgiessler) - GitHub Profile Page (today)
 - [PascalGiessler/langchain-falcon-llm-chainlit](https://github.com/PascalGiessler/langchain-falcon-llm-chainlit) - Chatbot build on Falcon LLM (3 days ago)
-- [PascalGiessler/pascalgiessler](https://github.com/PascalGiessler/pascalgiessler) - GitHub Profile Page (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -52,5 +56,3 @@ Say Hello, I don't bite!
 - Medium: https://medium.com/@pmgiessler
 - Linkedin: https://www.linkedin.com/in/pgiessler/
 - Substack: https://pascalgiessler.substack.com/
-
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
