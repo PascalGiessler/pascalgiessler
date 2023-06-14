@@ -5,6 +5,7 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 #### 🚀 Current focus topics
 * Artificial Intelligence (Generative-AI, NLP, Deep Learning, ...)
 * Scalable and Resilient Systems (Cloud-Native, Microswervices, DDD,...)
+* Leadership
 
 #### 👷 Check out what I'm currently working on
 
