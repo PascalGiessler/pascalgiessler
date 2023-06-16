@@ -4,12 +4,12 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 #### 🚀 Current focus topics
 * Artificial Intelligence (Generative-AI, NLP, Deep Learning, ...)
-* Scalable and Resilient Systems (Cloud-Native, Microswervices, DDD,...)
+* Scalable and Resilient Systems (Cloud-Native, Microservices, DDD,...)
 * Leadership
 
 #### 👷 Check out what I'm currently working on
 
-- [PascalGiessler/pascalgiessler](https://github.com/PascalGiessler/pascalgiessler) - GitHub Profile Page (2 days ago)
+- [PascalGiessler/pascalgiessler](https://github.com/PascalGiessler/pascalgiessler) - GitHub Profile Page (today)
 - [PascalGiessler/langchain-falcon-llm-chainlit](https://github.com/PascalGiessler/langchain-falcon-llm-chainlit) - Chatbot build on Falcon LLM (5 days ago)
 
 #### 🌱 My latest projects
