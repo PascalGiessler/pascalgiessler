@@ -9,7 +9,7 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 #### 👷 Check out what I'm currently working on
 
-- [PascalGiessler/pascalgiessler](https://github.com/PascalGiessler/pascalgiessler) - GitHub Profile Page (6 days ago)
+- [PascalGiessler/pascalgiessler](https://github.com/PascalGiessler/pascalgiessler) - GitHub Profile Page (1 week ago)
 - [PascalGiessler/langchain-falcon-llm-chainlit](https://github.com/PascalGiessler/langchain-falcon-llm-chainlit) - Chatbot build on Falcon LLM (1 week ago)
 
 #### 🌱 My latest projects
@@ -24,7 +24,7 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 #### 📜 My recent blog posts
 
-- [Mastering the Multifaceted Role of a Technical Lead: Balancing Technology, Business, and Leadership…](https://medium.com/@pmgiessler/mastering-the-multifaceted-role-of-a-technical-lead-balancing-technology-business-and-leadership-f9ada0cc109c?source=rss-97723e613dbd------2) (3 days ago)
+- [Mastering the Multifaceted Role of a Technical Lead: Balancing Technology, Business, and Leadership…](https://medium.com/@pmgiessler/mastering-the-multifaceted-role-of-a-technical-lead-balancing-technology-business-and-leadership-f9ada0cc109c?source=rss-97723e613dbd------2) (4 days ago)
 - [Mastering the Multifaceted Role of a Technical Lead: Balancing Technology, Business, and Leadership…](https://medium.com/@pmgiessler/mastering-the-multifaceted-role-of-a-technical-lead-balancing-technology-business-and-leadership-7b8e7dd7de67?source=rss-97723e613dbd------2) (1 week ago)
 - [The Myth Behind Developer Productivity: Metrics, Frameworks, and the Human Element](https://medium.com/@pmgiessler/the-myth-behind-developer-productivity-metrics-frameworks-and-the-human-element-185f18c4077d?source=rss-97723e613dbd------2) (2 weeks ago)
 - [The Power of Data Structures: Unleashing Efficiency in Modern Databases](https://medium.com/@pmgiessler/the-power-of-data-structures-unleashing-efficiency-in-modern-databases-15403fa0a2c8?source=rss-97723e613dbd------2) (3 weeks ago)
@@ -36,7 +36,7 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 #### ⭐ Recent Stars
 
-- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (2 days ago)
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (3 days ago)
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications (1 week ago)
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Python LLM apps in minutes ⚡️ (1 week ago)
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (1 week ago)
