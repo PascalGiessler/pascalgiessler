@@ -18,9 +18,6 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 - [PascalGiessler/langchain-falcon-llm-chainlit](https://github.com/PascalGiessler/langchain-falcon-llm-chainlit) - Chatbot build on Falcon LLM
 - [PascalGiessler/pascalgiessler](https://github.com/PascalGiessler/pascalgiessler) - GitHub Profile Page
 
-#### 🔭 Latest releases I've contributed to
-
-
 #### 🔨 My recent Pull Requests
 
 - [[TASK] Add shelljs as dependency](https://github.com/dpa99c/cordova-custom-config/pull/54) on [dpa99c/cordova-custom-config](https://github.com/dpa99c/cordova-custom-config) (7 years ago)
