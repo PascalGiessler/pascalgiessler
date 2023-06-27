@@ -9,8 +9,8 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 #### 👷 Check out what I'm currently working on
 
-- [PascalGiessler/pascalgiessler](https://github.com/PascalGiessler/pascalgiessler) - GitHub Profile Page (3 days ago)
-- [syndikat7/homebrew-tools](https://github.com/syndikat7/homebrew-tools) -  (3 days ago)
+- [PascalGiessler/pascalgiessler](https://github.com/PascalGiessler/pascalgiessler) - GitHub Profile Page (4 days ago)
+- [syndikat7/homebrew-tools](https://github.com/syndikat7/homebrew-tools) -  (4 days ago)
 - [PascalGiessler/langchain-falcon-llm-chainlit](https://github.com/PascalGiessler/langchain-falcon-llm-chainlit) - Chatbot build on Falcon LLM (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -24,7 +24,7 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 #### 📜 My recent blog posts
 
-- [Understanding Data Distribution and Replication Strategies in a Data-Driven World (1)](https://medium.com/@pmgiessler/understanding-data-distribution-and-replication-strategies-in-a-data-driven-world-1-b56015f1e759?source=rss-97723e613dbd------2) (today)
+- [Understanding Data Distribution and Replication Strategies in a Data-Driven World (1)](https://medium.com/@pmgiessler/understanding-data-distribution-and-replication-strategies-in-a-data-driven-world-1-b56015f1e759?source=rss-97723e613dbd------2) (1 day ago)
 - [Mastering the Multifaceted Role of a Technical Lead: Balancing Technology, Business, and Leadership…](https://medium.com/@pmgiessler/mastering-the-multifaceted-role-of-a-technical-lead-balancing-technology-business-and-leadership-f9ada0cc109c?source=rss-97723e613dbd------2) (1 week ago)
 - [Mastering the Multifaceted Role of a Technical Lead: Balancing Technology, Business, and Leadership…](https://medium.com/@pmgiessler/mastering-the-multifaceted-role-of-a-technical-lead-balancing-technology-business-and-leadership-7b8e7dd7de67?source=rss-97723e613dbd------2) (2 weeks ago)
 - [The Myth Behind Developer Productivity: Metrics, Frameworks, and the Human Element](https://medium.com/@pmgiessler/the-myth-behind-developer-productivity-metrics-frameworks-and-the-human-element-185f18c4077d?source=rss-97723e613dbd------2) (3 weeks ago)
@@ -32,15 +32,15 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 #### 📓 Gists I wrote
 
-- [Get latest x tags from a git repository](https://gist.github.com/09af282b7e3839a9ad7fcc8a629ce03e) (1 week ago)
+- [Get latest x tags from a git repository](https://gist.github.com/09af282b7e3839a9ad7fcc8a629ce03e) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (6 days ago)
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications (1 week ago)
-- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Python LLM apps in minutes ⚡️ (1 week ago)
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (1 week ago)
-- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡ (1 week ago)
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (1 week ago)
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications (2 weeks ago)
+- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Python LLM apps in minutes ⚡️ (2 weeks ago)
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (2 weeks ago)
+- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡ (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
