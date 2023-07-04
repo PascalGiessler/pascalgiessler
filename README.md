@@ -24,7 +24,7 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 #### 📜 My recent blog posts
 
-- [Securing Secrets in Kubernetes: Exploring Sealed Secrets for Enhanced Confidentiality](https://medium.com/@pmgiessler/securing-secrets-in-kubernetes-exploring-sealed-secrets-for-enhanced-confidentiality-145e79e5858e?source=rss-97723e613dbd------2) (today)
+- [Securing Secrets in Kubernetes: Exploring Sealed Secrets for Enhanced Confidentiality](https://medium.com/@pmgiessler/securing-secrets-in-kubernetes-exploring-sealed-secrets-for-enhanced-confidentiality-145e79e5858e?source=rss-97723e613dbd------2) (1 day ago)
 - [Understanding Data Distribution and Replication Strategies in a Data-Driven World (1)](https://medium.com/@pmgiessler/understanding-data-distribution-and-replication-strategies-in-a-data-driven-world-1-b56015f1e759?source=rss-97723e613dbd------2) (1 week ago)
 - [Mastering the Multifaceted Role of a Technical Lead: Balancing Technology, Business, and Leadership…](https://medium.com/@pmgiessler/mastering-the-multifaceted-role-of-a-technical-lead-balancing-technology-business-and-leadership-f9ada0cc109c?source=rss-97723e613dbd------2) (2 weeks ago)
 - [Mastering the Multifaceted Role of a Technical Lead: Balancing Technology, Business, and Leadership…](https://medium.com/@pmgiessler/mastering-the-multifaceted-role-of-a-technical-lead-balancing-technology-business-and-leadership-7b8e7dd7de67?source=rss-97723e613dbd------2) (3 weeks ago)
@@ -32,15 +32,15 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 #### 📓 Gists I wrote
 
-- [Get latest x tags from a git repository](https://gist.github.com/09af282b7e3839a9ad7fcc8a629ce03e) (2 weeks ago)
+- [Get latest x tags from a git repository](https://gist.github.com/09af282b7e3839a9ad7fcc8a629ce03e) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (1 week ago)
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications (2 weeks ago)
-- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Python LLM apps in minutes ⚡️ (2 weeks ago)
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (2 weeks ago)
-- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡ (2 weeks ago)
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (2 weeks ago)
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications (3 weeks ago)
+- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Python LLM apps in minutes ⚡️ (3 weeks ago)
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (3 weeks ago)
+- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡ (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
