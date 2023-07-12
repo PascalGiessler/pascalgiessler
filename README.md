@@ -27,7 +27,7 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 - [Securing Secrets in Kubernetes: Exploring Sealed Secrets for Enhanced Confidentiality](https://medium.com/@pmgiessler/securing-secrets-in-kubernetes-exploring-sealed-secrets-for-enhanced-confidentiality-145e79e5858e?source=rss-97723e613dbd------2) (1 week ago)
 - [Understanding Data Distribution and Replication Strategies in a Data-Driven World (1)](https://medium.com/@pmgiessler/understanding-data-distribution-and-replication-strategies-in-a-data-driven-world-1-b56015f1e759?source=rss-97723e613dbd------2) (2 weeks ago)
 - [Mastering the Multifaceted Role of a Technical Lead: Balancing Technology, Business, and Leadership…](https://medium.com/@pmgiessler/mastering-the-multifaceted-role-of-a-technical-lead-balancing-technology-business-and-leadership-f9ada0cc109c?source=rss-97723e613dbd------2) (3 weeks ago)
-- [Mastering the Multifaceted Role of a Technical Lead: Balancing Technology, Business, and Leadership…](https://medium.com/@pmgiessler/mastering-the-multifaceted-role-of-a-technical-lead-balancing-technology-business-and-leadership-7b8e7dd7de67?source=rss-97723e613dbd------2) (4 weeks ago)
+- [Mastering the Multifaceted Role of a Technical Lead: Balancing Technology, Business, and Leadership…](https://medium.com/@pmgiessler/mastering-the-multifaceted-role-of-a-technical-lead-balancing-technology-business-and-leadership-7b8e7dd7de67?source=rss-97723e613dbd------2) (1 month ago)
 - [The Myth Behind Developer Productivity: Metrics, Frameworks, and the Human Element](https://medium.com/@pmgiessler/the-myth-behind-developer-productivity-metrics-frameworks-and-the-human-element-185f18c4077d?source=rss-97723e613dbd------2) (1 month ago)
 
 #### 📓 Gists I wrote
