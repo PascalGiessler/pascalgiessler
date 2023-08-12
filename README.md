@@ -32,15 +32,15 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 #### 📓 Gists I wrote
 
-- [Get latest x tags from a git repository](https://gist.github.com/09af282b7e3839a9ad7fcc8a629ce03e) (1 month ago)
+- [Get latest x tags from a git repository](https://gist.github.com/09af282b7e3839a9ad7fcc8a629ce03e) (2 months ago)
 
 #### ⭐ Recent Stars
 
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (1 month ago)
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications (1 month ago)
-- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Python LLM apps in minutes ⚡️ (1 month ago)
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (1 month ago)
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡ (1 month ago)
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications (2 months ago)
+- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Python LLM apps in minutes ⚡️ (2 months ago)
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (2 months ago)
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡ (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
