@@ -24,7 +24,7 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 #### 📜 My recent blog posts
 
-- [Understanding Data Distribution and Replication Strategies in a Data-Driven World (2)](https://medium.com/@pmgiessler/understanding-data-distribution-and-replication-strategies-in-a-data-driven-world-2-6615b60859e9?source=rss-97723e613dbd------2) (1 week ago)
+- [Understanding Data Distribution and Replication Strategies in a Data-Driven World (2)](https://medium.com/@pmgiessler/understanding-data-distribution-and-replication-strategies-in-a-data-driven-world-2-6615b60859e9?source=rss-97723e613dbd------2) (2 weeks ago)
 - [Crafting Your Large Language Model (LLM)Application](https://medium.com/@pmgiessler/crafting-your-large-language-model-llm-application-26c241cc537f?source=rss-97723e613dbd------2) (2 months ago)
 - [Securing Secrets in Kubernetes: Exploring Sealed Secrets for Enhanced Confidentiality](https://medium.com/@pmgiessler/securing-secrets-in-kubernetes-exploring-sealed-secrets-for-enhanced-confidentiality-145e79e5858e?source=rss-97723e613dbd------2) (3 months ago)
 - [Understanding Data Distribution and Replication Strategies in a Data-Driven World (1)](https://medium.com/@pmgiessler/understanding-data-distribution-and-replication-strategies-in-a-data-driven-world-1-b56015f1e759?source=rss-97723e613dbd------2) (3 months ago)
