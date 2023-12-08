@@ -11,7 +11,7 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 - [PascalGiessler/pascalgiessler](https://github.com/PascalGiessler/pascalgiessler) - GitHub Profile Page (5 months ago)
 - [syndikat7/homebrew-tools](https://github.com/syndikat7/homebrew-tools) -  (5 months ago)
-- [PascalGiessler/langchain-falcon-llm-chainlit](https://github.com/PascalGiessler/langchain-falcon-llm-chainlit) - Chatbot build on Falcon LLM (5 months ago)
+- [PascalGiessler/langchain-falcon-llm-chainlit](https://github.com/PascalGiessler/langchain-falcon-llm-chainlit) - Chatbot build on Falcon LLM (6 months ago)
 
 #### 🌱 My latest projects
 
