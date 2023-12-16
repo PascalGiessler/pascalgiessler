@@ -20,6 +20,7 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 #### 🔨 My recent Pull Requests
 
+- [fix(14534): make the azure vectorsearch compatible with latest stable release 11.4](https://github.com/langchain-ai/langchain/pull/14789) on [langchain-ai/langchain](https://github.com/langchain-ai/langchain) (today)
 - [[TASK] Add shelljs as dependency](https://github.com/dpa99c/cordova-custom-config/pull/54) on [dpa99c/cordova-custom-config](https://github.com/dpa99c/cordova-custom-config) (7 years ago)
 
 #### 📜 My recent blog posts
