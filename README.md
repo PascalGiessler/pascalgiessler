@@ -20,12 +20,12 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 #### 🔨 My recent Pull Requests
 
-- [fix(14534): make the azure vectorsearch compatible with latest stable release 11.4](https://github.com/langchain-ai/langchain/pull/14789) on [langchain-ai/langchain](https://github.com/langchain-ai/langchain) (today)
+- [fix(14534): make the azure vectorsearch compatible with latest stable release 11.4](https://github.com/langchain-ai/langchain/pull/14789) on [langchain-ai/langchain](https://github.com/langchain-ai/langchain) (1 day ago)
 - [[TASK] Add shelljs as dependency](https://github.com/dpa99c/cordova-custom-config/pull/54) on [dpa99c/cordova-custom-config](https://github.com/dpa99c/cordova-custom-config) (7 years ago)
 
 #### 📜 My recent blog posts
 
-- [Understanding Data Distribution and Replication Strategies in a Data-Driven World (2)](https://medium.com/@pmgiessler/understanding-data-distribution-and-replication-strategies-in-a-data-driven-world-2-6615b60859e9?source=rss-97723e613dbd------2) (2 months ago)
+- [Understanding Data Distribution and Replication Strategies in a Data-Driven World (2)](https://medium.com/@pmgiessler/understanding-data-distribution-and-replication-strategies-in-a-data-driven-world-2-6615b60859e9?source=rss-97723e613dbd------2) (3 months ago)
 - [Crafting Your Large Language Model (LLM)Application](https://medium.com/@pmgiessler/crafting-your-large-language-model-llm-application-26c241cc537f?source=rss-97723e613dbd------2) (4 months ago)
 - [Securing Secrets in Kubernetes: Exploring Sealed Secrets for Enhanced Confidentiality](https://medium.com/@pmgiessler/securing-secrets-in-kubernetes-exploring-sealed-secrets-for-enhanced-confidentiality-145e79e5858e?source=rss-97723e613dbd------2) (5 months ago)
 - [Understanding Data Distribution and Replication Strategies in a Data-Driven World (1)](https://medium.com/@pmgiessler/understanding-data-distribution-and-replication-strategies-in-a-data-driven-world-1-b56015f1e759?source=rss-97723e613dbd------2) (5 months ago)
@@ -37,7 +37,7 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 #### ⭐ Recent Stars
 
-- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (5 months ago)
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (6 months ago)
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications (6 months ago)
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Python LLM apps in minutes ⚡️ (6 months ago)
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (6 months ago)
