@@ -9,8 +9,8 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 #### 👷 Check out what I'm currently working on
 
-- [PascalGiessler/pascalgiessler](https://github.com/PascalGiessler/pascalgiessler) - GitHub Profile Page (5 months ago)
-- [syndikat7/homebrew-tools](https://github.com/syndikat7/homebrew-tools) -  (5 months ago)
+- [PascalGiessler/pascalgiessler](https://github.com/PascalGiessler/pascalgiessler) - GitHub Profile Page (6 months ago)
+- [syndikat7/homebrew-tools](https://github.com/syndikat7/homebrew-tools) -  (6 months ago)
 - [PascalGiessler/langchain-falcon-llm-chainlit](https://github.com/PascalGiessler/langchain-falcon-llm-chainlit) - Chatbot build on Falcon LLM (6 months ago)
 
 #### 🌱 My latest projects
@@ -20,7 +20,7 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 #### 🔨 My recent Pull Requests
 
-- [fix(14534): make the azure vectorsearch compatible with latest stable release 11.4](https://github.com/langchain-ai/langchain/pull/14789) on [langchain-ai/langchain](https://github.com/langchain-ai/langchain) (3 days ago)
+- [fix(14534): make the azure vectorsearch compatible with latest stable release 11.4](https://github.com/langchain-ai/langchain/pull/14789) on [langchain-ai/langchain](https://github.com/langchain-ai/langchain) (4 days ago)
 - [[TASK] Add shelljs as dependency](https://github.com/dpa99c/cordova-custom-config/pull/54) on [dpa99c/cordova-custom-config](https://github.com/dpa99c/cordova-custom-config) (7 years ago)
 
 #### 📜 My recent blog posts
