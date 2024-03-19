@@ -9,8 +9,8 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 #### 👷 Check out what I'm currently working on
 
-- [PascalGiessler/pascalgiessler](https://github.com/PascalGiessler/pascalgiessler) - GitHub Profile Page (8 months ago)
-- [syndikat7/homebrew-tools](https://github.com/syndikat7/homebrew-tools) -  (8 months ago)
+- [PascalGiessler/pascalgiessler](https://github.com/PascalGiessler/pascalgiessler) - GitHub Profile Page (9 months ago)
+- [syndikat7/homebrew-tools](https://github.com/syndikat7/homebrew-tools) -  (9 months ago)
 - [PascalGiessler/langchain-falcon-llm-chainlit](https://github.com/PascalGiessler/langchain-falcon-llm-chainlit) - Chatbot build on Falcon LLM (9 months ago)
 
 #### 🌱 My latest projects
