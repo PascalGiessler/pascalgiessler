@@ -25,7 +25,7 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 #### 📜 My recent blog posts
 
-- [Understanding Data Distribution and Replication Strategies in a Data-Driven World (2)](https://medium.com/@pmgiessler/understanding-data-distribution-and-replication-strategies-in-a-data-driven-world-2-6615b60859e9?source=rss-97723e613dbd------2) (6 months ago)
+- [Understanding Data Distribution and Replication Strategies in a Data-Driven World (2)](https://medium.com/@pmgiessler/understanding-data-distribution-and-replication-strategies-in-a-data-driven-world-2-6615b60859e9?source=rss-97723e613dbd------2) (7 months ago)
 - [Crafting Your Large Language Model (LLM)Application](https://medium.com/@pmgiessler/crafting-your-large-language-model-llm-application-26c241cc537f?source=rss-97723e613dbd------2) (8 months ago)
 - [Securing Secrets in Kubernetes: Exploring Sealed Secrets for Enhanced Confidentiality](https://medium.com/@pmgiessler/securing-secrets-in-kubernetes-exploring-sealed-secrets-for-enhanced-confidentiality-145e79e5858e?source=rss-97723e613dbd------2) (9 months ago)
 - [Understanding Data Distribution and Replication Strategies in a Data-Driven World (1)](https://medium.com/@pmgiessler/understanding-data-distribution-and-replication-strategies-in-a-data-driven-world-1-b56015f1e759?source=rss-97723e613dbd------2) (9 months ago)
@@ -38,7 +38,7 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 #### ⭐ Recent Stars
 
 - [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models (2 months ago)
-- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (9 months ago)
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (10 months ago)
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications (10 months ago)
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️ (10 months ago)
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (10 months ago)
