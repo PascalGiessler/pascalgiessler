@@ -15,6 +15,7 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 #### 🌱 My latest projects
 
+- [PascalGiessler/learntales](https://github.com/PascalGiessler/learntales) - Learn Tales
 - [PascalGiessler/langchain-falcon-llm-chainlit](https://github.com/PascalGiessler/langchain-falcon-llm-chainlit) - Chatbot build on Falcon LLM
 - [PascalGiessler/pascalgiessler](https://github.com/PascalGiessler/pascalgiessler) - GitHub Profile Page
 
