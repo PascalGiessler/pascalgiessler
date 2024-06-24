@@ -9,8 +9,6 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 #### 👷 Check out what I'm currently working on
 
-- [syndikat7/homebrew-tools](https://github.com/syndikat7/homebrew-tools) -  (1 year ago)
-- [PascalGiessler/pascalgiessler](https://github.com/PascalGiessler/pascalgiessler) - GitHub Profile Page (1 year ago)
 
 #### 🌱 My latest projects
 
