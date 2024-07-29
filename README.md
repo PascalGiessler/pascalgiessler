@@ -44,11 +44,11 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 #### 👯 Check out some of my recent followers
 
-- [blockmaven165](https://github.com/blockmaven165)
 - [mono300genuine](https://github.com/mono300genuine)
 - [philippwaller](https://github.com/philippwaller)
 - [LatVAlY](https://github.com/LatVAlY)
 - [seiferma](https://github.com/seiferma)
+- [rzetzsche](https://github.com/rzetzsche)
 
 #### 💬 Feedback
 
