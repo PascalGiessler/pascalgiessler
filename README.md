@@ -46,9 +46,9 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 - [Charles-Chrismann](https://github.com/Charles-Chrismann)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
-- [ishandutta2007](https://github.com/ishandutta2007)
 - [mono300genuine](https://github.com/mono300genuine)
 - [philippwaller](https://github.com/philippwaller)
+- [LatVAlY](https://github.com/LatVAlY)
 
 #### 💬 Feedback
 
