@@ -9,6 +9,7 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 #### 👷 Check out what I'm currently working on
 
+- [PascalGiessler/website](https://github.com/PascalGiessler/website) - Personal Website (today)
 
 #### 🌱 My latest projects
 
