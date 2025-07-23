@@ -37,7 +37,7 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 #### ⭐ Recent Stars
 
-- [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models (1 year ago)
+- [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models (2 years ago)
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (2 years ago)
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search (2 years ago)
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️ (2 years ago)
