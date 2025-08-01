@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm thrilled to have you here, diving into the world of code and curiosity. My name is Pascal — a passionate tech leader with an insatiable thirst for knowledge and a deep commitment to innovation. I strive to make a meaningful impact through the power of technology — or at the very least, I'm doing my best.
+I'm thrilled to have you here, exploring the world of code and curiosity. My name is Pascal, and I am a passionate tech leader and working as HoD at <a href="https://syndikat7.de">SYNDIKAT7</a>. With an insatiable thirst for knowledge and an unwavering commitment to innovation, I strive to make a positive impact on the world through the power of technology or at least I am doing my best.
 
 #### 🚀 Current focus topics
 * Artificial Intelligence (Generative-AI, NLP, Deep Learning, ...)
@@ -9,6 +9,7 @@ I'm thrilled to have you here, diving into the world of code and curiosity. My n
 
 #### 👷 Check out what I'm currently working on
 
+- [PascalGiessler/pascalgiessler](https://github.com/PascalGiessler/pascalgiessler) - GitHub Profile Page (today)
 - [PascalGiessler/website](https://github.com/PascalGiessler/website) - Personal Website (1 month ago)
 
 #### 🌱 My latest projects
