@@ -47,11 +47,11 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 #### 👯 Check out some of my recent followers
 
-- [Charles-Chrismann](https://github.com/Charles-Chrismann)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [mono300genuine](https://github.com/mono300genuine)
 - [philippwaller](https://github.com/philippwaller)
 - [LatVAlY](https://github.com/LatVAlY)
+- [seiferma](https://github.com/seiferma)
 
 #### 💬 Feedback
 
