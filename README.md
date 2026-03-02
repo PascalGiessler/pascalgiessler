@@ -43,7 +43,7 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search (2 years ago)
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️ (2 years ago)
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (2 years ago)
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents. (2 years ago)
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform (2 years ago)
 
 #### 👯 Check out some of my recent followers
 
