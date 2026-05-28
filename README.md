@@ -34,16 +34,16 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 
 #### 📓 Gists I wrote
 
-- [Get latest x tags from a git repository](https://gist.github.com/09af282b7e3839a9ad7fcc8a629ce03e) (2 years ago)
+- [Get latest x tags from a git repository](https://gist.github.com/09af282b7e3839a9ad7fcc8a629ce03e) (3 years ago)
 
 #### ⭐ Recent Stars
 
 - [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models (2 years ago)
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (2 years ago)
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search (2 years ago)
-- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️ (2 years ago)
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (2 years ago)
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. (2 years ago)
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search (3 years ago)
+- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️ (3 years ago)
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (3 years ago)
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. (3 years ago)
 
 #### 👯 Check out some of my recent followers
 
