@@ -41,7 +41,7 @@ I'm thrilled to have you here, exploring the world of code and curiosity. My nam
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (3 years ago)
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search (3 years ago)
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️ (3 years ago)
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (3 years ago)
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The agent-native framework for data apps and dashboards. (3 years ago)
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. (3 years ago)
 
 #### 👯 Check out some of my recent followers
